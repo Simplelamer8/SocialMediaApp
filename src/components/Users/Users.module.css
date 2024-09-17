@@ -1,0 +1,40 @@
+.card 
+{
+    display: flex;
+    align-items: center;
+    width: 50vw;
+    justify-content: space-around;
+}
+
+.avatar img 
+{
+    width: 200px;
+}
+.avatar
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.textInfo
+{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+.left 
+{
+    display: flex;
+    flex-direction: column;
+}
+.right
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.activePage 
+{
+    font-weight: 900;
+}
